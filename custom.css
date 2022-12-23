@@ -1,6 +1,4 @@
 /* Your custom styles goes here */
-{
-  .lg-backdrop {
-    background-color: lightblue;
-  }
+.lg-backdrop {
+  background-color: lightblue;
 }
