@@ -151,7 +151,7 @@ nav.pagination a {
   color: #3399ff;
 }
 /* Your custom styles goes here */
-.lg-backdrop {
-  background-color: lightblue;
+* {
+  background-color: lightblue !important;
 }
 
