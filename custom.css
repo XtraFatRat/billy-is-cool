@@ -1,4 +1,4 @@
 /* Your custom styles goes here */
-.lg-backdrop {
-  background-color: lightblue;
+* {
+  background-color: lightblue !important;
 }
